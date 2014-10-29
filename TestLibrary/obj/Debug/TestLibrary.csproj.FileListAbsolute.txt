@@ -1,0 +1,5 @@
+E:\test\TestMapCore\TestLibrary_20131218\TestLibrary\bin\TestLibrary.dll
+E:\test\TestMapCore\TestLibrary_20131218\TestLibrary\bin\TestLibrary.pdb
+E:\test\TestMapCore\TestLibrary_20131218\TestLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\test\TestMapCore\TestLibrary_20131218\TestLibrary\obj\Debug\TestLibrary.dll
+E:\test\TestMapCore\TestLibrary_20131218\TestLibrary\obj\Debug\TestLibrary.pdb
